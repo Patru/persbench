@@ -3,3 +3,5 @@
 .idea/
 .bundle
 mag11
+debug.log
+*.sqlite3
