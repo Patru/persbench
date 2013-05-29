@@ -1,5 +1,6 @@
 ## run on a MacBookAir on battery
 (featuring MRI-1.9.3 with ActiveRecord 3.2.13 saving to SQLite3
+
 |Benchmark                      |   user  |  system  |   total  |      real  |
 |-------------------------------|---------|----------|----------|------------|
 |just create some objects       |1.620000 | 0.010000 | 1.630000 |  1.628136  |
